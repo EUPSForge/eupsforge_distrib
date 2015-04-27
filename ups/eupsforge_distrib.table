@@ -1,0 +1,5 @@
+## EUPSForge internals
+setupRequired(eupsforge)
+
+## Third-party packages
+setupRequired(oorb)
