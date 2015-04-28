@@ -3,3 +3,4 @@ setupRequired(eupsforge)
 
 ## Third-party packages
 setupRequired(oorb)
+setupRequired(vitables)
