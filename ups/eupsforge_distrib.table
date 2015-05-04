@@ -4,3 +4,5 @@ setupRequired(eupsforge)
 ## Third-party packages
 setupRequired(oorb)
 setupRequired(vitables)
+setupRequired(ann)
+setupRequired(polygon)
